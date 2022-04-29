@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74111185/165887205-ee82ee3c-00b0-40ae-9bd6-e4c84f8d3bae.png" min-width="100px" max-width="100px" width="100px" align="right">
 
-<img src="https://github.com/iuricode/iuricode/blob/main/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="https://github.com/iuricode/iuricode/blob/main/ilus-code.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="logo iuricode">
 
 
 <h2> 👨🏻•💻 Educación </h2>
