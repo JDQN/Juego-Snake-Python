@@ -5,12 +5,12 @@
 <img src="https://github.com/iuricode/iuricode/blob/main/ilus-code.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="logo iuricode">
 
 
-<h2> 👨🏻•💻 Educación </h2>
+<h2> 👨🏻•💻 Educación 👨🏻•💻 </h2>
 
 <p><a href="https://educamas.com.co/">Bootcamp full stack developer EducaMás-Prográmate</a>, Regional Bogotá cohorte IV. 💻 </br>
 </em></p>
 
-<h2> 👨🏻•💻 TEAM </h2>
+<h2> 👨🏻•💻 TEAM 👨🏻•💻 </h2>
 
 - 🎓 &nbsp; Juan David Quimbayo Nuñez.
 
